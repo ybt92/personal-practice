@@ -1,1 +1,13 @@
-
+<!DOCTYPE html>
+    <html>
+    <head>
+        <title>My Web Page</title>
+        <style>
+            body { font-family: Arial, sans-serif; }
+        </style>
+    </head>
+    <body>
+        <h1>Hello, World!</h1>
+        <p>This is a simple web page created with Xcode.</p>
+    </body>
+    </html>
